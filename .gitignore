@@ -2,3 +2,7 @@ autovenv/
 .pyupdater/
 pyu-data/
 client_config.py
+*.iss
+*.exe
+build/
+dist/
