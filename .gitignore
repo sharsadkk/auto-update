@@ -1,1 +1,4 @@
 autovenv/
+.pyupdater/
+pyu-data/
+client_config.py
